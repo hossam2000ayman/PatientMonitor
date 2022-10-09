@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "886694662000",
+    "firebase_url": "https://iotbackend-f31d0.firebaseio.com",
+    "project_id": "iotbackend-f31d0",
+    "storage_bucket": "iotbackend-f31d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886694662000:android:fe1009bd1213ef217549b5",
+        "android_client_info": {
+          "package_name": "com.example.doctor_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886694662000-gnohevp0bgohb3k7t645uohsf1go2d98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaT6mnZmWPTTqlZDtTbtOFk_51jT9zY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886694662000-gnohevp0bgohb3k7t645uohsf1go2d98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886694662000:android:c15db2a777db14287549b5",
+        "android_client_info": {
+          "package_name": "com.example.patient_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886694662000-gnohevp0bgohb3k7t645uohsf1go2d98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaT6mnZmWPTTqlZDtTbtOFk_51jT9zY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886694662000-gnohevp0bgohb3k7t645uohsf1go2d98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886694662000:android:dfe6909858d6cc417549b5",
+        "android_client_info": {
+          "package_name": "com.example.patient_monitor_nullsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886694662000-gnohevp0bgohb3k7t645uohsf1go2d98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaT6mnZmWPTTqlZDtTbtOFk_51jT9zY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886694662000-gnohevp0bgohb3k7t645uohsf1go2d98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
